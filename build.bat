@@ -1,0 +1,1 @@
+@echo off & javac -d bin src/converter/*.java & pause
